@@ -414,7 +414,7 @@
   <project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
-  <project path="vendor/cm" name="CyanDreamProject/android_vendor_cm" >
+  <project path="vendor/cyandream" name="CyanDreamProject/android_vendor_cyandream" >
         <copyfile src="build.sh" dest="jb-build.sh" />
   </project>
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
