@@ -297,6 +297,7 @@
   <project path="packages/apps/Apollo" revision="refs/heads/cm-10.2" name="CyanogenMod/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" revision="refs/heads/cm-10.2" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" revision="refs/heads/cm-10.2" name="CyanogenMod/android_packages_apps_Bluetooth" />
+  <project path="packages/apps/BluetoothExt" revision="refs/heads/cm-10.2" name="CyanogenMod/android_packages_apps_BluetoothExt" />
   <project path="packages/apps/Browser" revision="refs/heads/cm-10.2" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" revision="refs/heads/cm-10.2" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" revision="refs/heads/cm-10.2" name="CyanogenMod/android_packages_apps_Calendar" />
