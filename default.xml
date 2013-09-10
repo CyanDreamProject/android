@@ -6,7 +6,8 @@
            review="android-review.googlesource.com" />
 
   <remote  name="github"
-           fetch=".."  />
+           fetch=".."
+           review="yauniks.dynvpn.de:8082" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
