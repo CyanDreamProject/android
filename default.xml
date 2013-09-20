@@ -230,6 +230,7 @@
   <project path="external/webrtc" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_webrtc" groups="pdk" />
   <project path="external/wpa_supplicant_8" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_wpa_supplicant_8_ti" />
+  <project path="external/xdelta3" name="CyanDreamProject/android_external_xdelta3" />
   <project path="external/xmlwriter" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_xmp_toolkit" />
   <project path="external/yaffs2" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_yaffs2" groups="pdk" />
