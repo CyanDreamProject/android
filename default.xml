@@ -70,6 +70,7 @@
   <project path="external/chromium-trace" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_chromium-trace" groups="pdk" />
   <project path="external/clang" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_clang" groups="pdk" />
   <project path="external/compiler-rt" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_compiler-rt" groups="pdk" />
+  <project path="external/crda" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_crda" />
   <project path="external/dexmaker" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_dexmaker" />
   <project path="external/dhcpcd" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_dhcpcd" />
   <project path="external/dnsmasq" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_dnsmasq" groups="pdk" />
