@@ -187,6 +187,7 @@
   <project path="external/openssl" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_openssl" groups="pdk" />
   <project path="external/openvpn" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_openvpn" />
   <project path="external/oprofile" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_oprofile" />
+  <project path="external/pciutils" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_pciutils" /> 
   <project path="external/pigz" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_pigz" />
   <project path="external/ping" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_ping" />
   <project path="external/ping6" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_ping6" />
