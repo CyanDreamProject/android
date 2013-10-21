@@ -88,6 +88,7 @@
   <project path="external/exfat" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_exfat" />
   <project path="external/expat" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_expat" groups="pdk" />
   <project path="external/eyes-free" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_eyes-free" />
+  <project path="external/f2fs-tools" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_f2fs-tools" />
   <project path="external/fdlibm" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_fdlibm" />
   <project path="external/flac" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_flac" groups="pdk" />
   <project path="external/freetype" revision="refs/heads/cm-10.2" name="CyanogenMod/android_external_freetype" groups="pdk" />
