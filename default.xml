@@ -262,6 +262,7 @@
   <project path="frameworks/opt/photoviewer" revision="refs/heads/cm-10.2" name="CyanogenMod/android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/timezonepicker" revision="refs/heads/cm-10.2" name="CyanogenMod/android_frameworks_opt_timezonepicker" />
   <project path="frameworks/opt/telephony" revision="refs/heads/cm-10.2" name="CyanogenMod/android_frameworks_opt_telephony" groups="pdk" />
+  <project path="frameworks/opt/telephony-msim" revision="refs/heads/cm-10.2" name="CyanogenMod/android_frameworks_opt_telephony-msim" />
   <project path="frameworks/opt/vcard" revision="refs/heads/cm-10.2" name="CyanogenMod/android_frameworks_opt_vcard" />
   <project path="frameworks/rs" revision="refs/heads/cm-10.2" name="CyanogenMod/android_frameworks_rs" groups="pdk" />
   <project path="frameworks/support" revision="refs/heads/cm-10.2" name="CyanogenMod/android_frameworks_support" />
