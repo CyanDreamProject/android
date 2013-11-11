@@ -348,7 +348,7 @@
   <project path="packages/apps/ControlCenter" name="CyanDreamProject/android_packages_apps_ControlCenter" />
   <project path="packages/apps/DeskClock" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/Dialer" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Dialer" />
-  <project path="packages/apps/DSPManager" name="CyanDreamProject/android_packages_apps_DSPManager" revision="refs/heads/cm-11.0" />
+  <project path="packages/apps/DSPManager" name="CyanDreamProject/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/Gallery2" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Gallery2" />
