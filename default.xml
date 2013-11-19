@@ -24,7 +24,7 @@
   <project path="android" name="CyanDreamProject/android" />
 
   <project path="abi/cpp" revision="refs/heads/cm-11.0" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="art" name="CyanogenMod/android_art" revision="refs/heads/cm-11.0" />
+  <project path="art" revision="refs/heads/cm-11.0" name="CyanogenMod/android_art" />
   <project path="bionic" revision="refs/heads/cm-11.0" name="CyanogenMod/android_bionic" groups="pdk" />
   <project path="bootable/diskinstaller" revision="refs/heads/cm-11.0" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" revision="refs/heads/cm-11.0" name="CyanogenMod/android_bootable_recovery" />
@@ -218,7 +218,7 @@
   <project path="external/openssh" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_openssh" />
   <project path="external/openssl" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_openssl" groups="pdk" />
   <project path="external/oprofile" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_oprofile" />
-  <project path="external/pciutils" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_pciutils" /> 
+  <project path="external/pciutils" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_pciutils" />
   <project path="external/pigz" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_pigz" />
   <project path="external/pixman" name="platform/external/pixman" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/powertop" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_powertop" />
@@ -342,6 +342,7 @@
   <project path="packages/apps/CertInstaller" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMAccount" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CMAccount" />
   <project path="packages/apps/CMFileManager" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CMFileManager" />
+  <project path="packages/apps/CMUpdater" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/CyanDreamWallpapers" name="CyanDreamProject/android_packages_apps_wallpapers" revision="master" />
   <project path="packages/apps/Contacts" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Contacts" />
@@ -359,7 +360,6 @@
   <project path="packages/apps/Launcher3" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Launcher3" />
   <project path="packages/apps/LockClock" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/Mms" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Mms" />
-  <project path="packages/apps/MusicFX" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/PackageInstaller" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_PackageInstaller" />
@@ -376,7 +376,7 @@
   <project path="packages/apps/Torch" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/VideoEditor" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VoiceDialer" />
- <!-- Removed pending the re-addition of the synthetic SMS APIs project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" /-->
+  <!-- Removed pending the re-addition of the synthetic SMS APIs project path="packages/apps/VoicePlus" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VoicePlus" /-->
   <project path="packages/experimental" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
@@ -468,11 +468,10 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="vendor/cyandream" name="CyanDreamProject/android_vendor_cyandream" >
-        <copyfile src="build.sh" dest="jb-build.sh" />
+        <copyfile src="build.sh" dest="kk-build.sh" />
   </project>
   <project path="vendor/tmobile/apps/ThemeChooser" revision="refs/heads/cm-11.0" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" revision="refs/heads/cm-11.0" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" revision="refs/heads/cm-11.0" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="local_manifests" name="CyanDreamProject/local_manifests" />
-  
 </manifest>
