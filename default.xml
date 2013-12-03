@@ -24,7 +24,7 @@
   <project path="android" name="CyanDreamProject/android" />
 
   <project path="abi/cpp" revision="refs/heads/cm-11.0" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="art" revision="refs/heads/cm-11.0" name="CyanogenMod/android_art" />
+  <project path="art" name="CyanDreamProject/android_art" />
   <project path="bionic" revision="refs/heads/cm-11.0" name="CyanogenMod/android_bionic" groups="pdk" />
   <project path="bootable/diskinstaller" revision="refs/heads/cm-11.0" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" revision="refs/heads/cm-11.0" name="CyanogenMod/android_bootable_recovery" />
