@@ -340,7 +340,7 @@
   <project path="packages/apps/Browser" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera2" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Camera2" />
+  <project path="packages/apps/Camera2" name="CyanDreamProject/android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMAccount" name="CyanDreamProject/android_packages_apps_CMAccount" />
