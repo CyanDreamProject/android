@@ -266,6 +266,7 @@
   <project path="external/whispersystems/TextSecure" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_whispersystems_TextSecure" />
   <project path="external/whispersystems/WhisperPush" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_whispersystems_WhisperPush" />
   <project path="external/wpa_supplicant_8" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
+  <project path="external/wpa_supplicant_8_ti" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_wpa_supplicant_8_ti" />
   <project path="external/xdelta3" name="CyanDreamProject/android_external_xdelta3" />
   <project path="external/xmlwriter" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_xmp_toolkit" />
