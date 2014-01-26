@@ -380,6 +380,7 @@
   <project path="packages/apps/VideoEditor" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/apps/VoicePlus" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VoicePlus" />
+  <project path="packages/apps/WWPF" name="CyanDreamProject/WhilWheatonPermissionFixer" />
   <project path="packages/experimental" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
