@@ -228,6 +228,7 @@
   <project path="external/protobuf" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_protobuf" groups="pdk" />
   <project path="external/qemu" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_qemu" />
   <project path="external/qemu-pc-bios" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_qemu-pc-bios" />
+  <project path="external/qrngd" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_qrngd" />
   <project path="external/regex-re2" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_regex-re2" />
   <project path="external/replicaisland" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -380,6 +381,7 @@
   <project path="packages/apps/VideoEditor" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/apps/VoicePlus" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_VoicePlus" />
+  <project path="packages/apps/WWPF" name="CyanDreamProject/WhilWheatonPermissionFixer" />
   <project path="packages/experimental" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
@@ -473,7 +475,7 @@
   <project path="vendor/cyngn" revision="refs/heads/cm-11.0" name="cyngn/android_vendor_cyngn" />
   <project path="vendor/tmobile/apps/ThemeChooser" revision="refs/heads/cm-11.0" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" revision="refs/heads/cm-11.0" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="CyanDreamProject/android_vendor_tmobile_providers_ThemeManager" />
+  <project path="vendor/tmobile/providers/ThemeManager" revision="refs/heads/cm-11.0" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/cyandream" name="CyanDreamProject/android_vendor_cyandream" >
         <copyfile src="build.sh" dest="kk-build.sh" />
   </project>
