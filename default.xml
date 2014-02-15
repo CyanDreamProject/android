@@ -274,7 +274,7 @@
   <project path="external/yaffs2" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_yaffs2" groups="pdk" />
   <project path="external/zlib" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zxing" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" revision="refs/heads/cm-11.0" name="CyanogenMod/android_frameworks_av" groups="pdk" />
+  <project path="frameworks/av" name="CyanDreamProject/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="CyanDreamProject/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" revision="refs/heads/cm-11.0" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" revision="refs/heads/cm-11.0" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
