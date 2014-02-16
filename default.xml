@@ -479,5 +479,4 @@
   <project path="vendor/cyandream" name="CyanDreamProject/android_vendor_cyandream" >
         <copyfile src="build.sh" dest="kk-build.sh" />
   </project>
-  <project path="local_manifests" name="cyandream-devices/local_manifests" />
 </manifest>
