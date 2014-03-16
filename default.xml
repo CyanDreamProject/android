@@ -346,7 +346,7 @@
   <project path="packages/apps/Camera2" name="CyanDreamProject/android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CDSetup" revision="refs/heads/cd-4.4" name="CyanDreamProject/android_packages_apps_CDSetup" />
+  <project path="packages/apps/CDSetup" name="CyanDreamProject/android_packages_apps_CDSetup" />
   <project path="packages/apps/CMAccount" name="CyanDreamProject/android_packages_apps_CMAccount" />
   <project path="packages/apps/CMFileManager" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <project path="packages/apps/CMWallpapers" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_CMWallpapers" />
