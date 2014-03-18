@@ -38,7 +38,7 @@
   <project path="device/common" revision="refs/heads/cm-11.0" name="CyanogenMod/android_device_common" />
   <project path="device/generic/armv7-a-neon" revision="refs/heads/cm-11.0" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" revision="refs/heads/cm-11.0" name="CyanogenMod/android_device_generic_common" groups="pdk" />
-  <project path="device/generic/goldfish" revision="refs/heads/cm-11.0" name="CyanogenMod/android_device_generic_goldfish" groups="pdk" />
+  <project path="device/generic/goldfish" name="cyandream-devices/android_device_generic_goldfish" groups="pdk" />
   <project path="device/generic/mips" revision="refs/heads/cm-11.0" name="CyanogenMod/android_device_generic_mips" groups="pdk" />
   <project path="device/generic/x86" revision="refs/heads/cm-11.0" name="CyanogenMod/android_device_generic_x86" groups="pdk" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
