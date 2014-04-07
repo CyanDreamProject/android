@@ -99,7 +99,7 @@
   <project path="external/compiler-rt" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_compiler-rt" groups="pdk" />
   <project path="external/connectivity" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_connectivity" />
   <project path="external/crda" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_crda" />
-  <project path="external/curl" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_curl" />
+  <project path="external/curl" name="CyanDreamProject/android_external_curl" />
   <project path="external/dexmaker" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_dexmaker" />
   <project path="external/dhcpcd" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_dhcpcd" />
   <project path="external/dnsmasq" revision="refs/heads/cm-11.0" name="CyanogenMod/android_external_dnsmasq" groups="pdk" />
