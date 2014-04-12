@@ -371,7 +371,6 @@
   <project path="packages/apps/PackageInstaller" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_Provision" />
-  <project path="packages/apps/QuickSearchBox" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/Settings" name="CyanDreamProject/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" revision="refs/heads/cm-11.0" name="CyanogenMod/android_packages_apps_SoundRecorder" />
