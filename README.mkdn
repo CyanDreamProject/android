@@ -31,7 +31,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the CyanDreamProject trees, use a command like this:
 
-    repo init -u git://github.com/CyanDreamProject/android.git -b cd-4.4
+    repo init -u http://cdgit-pub.yauniks.dynvpn.de/CyanDreamProject/android.git -b cd-4.4
 
 Then to sync up:
 
