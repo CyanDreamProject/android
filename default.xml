@@ -2,18 +2,18 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
+           fetch=".."
            review="android-review.googlesource.com" />
 
-  <remote  name="github"
+  <remote  name="cyandream"
            fetch=".."
-           review="yauniks.dynvpn.de:8082" />
+           review="gerrit.yauniks.dynvpn.de" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/cd-4.4"
-           remote="github"
+           remote="cyandream"
            sync-c="true"
            sync-j="4" />
 
